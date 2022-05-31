@@ -1,4 +1,5 @@
 A COMPANY SELLING ELECCTRIC DEVICES WEBSITE
+
 A company selling electric devices needs software with the following functions:
 -	Accountants shall be able to create Goods Received when the company imports goods (a warehouse receipt will include many items)
 -	Agents shall be able to place an order of items and choose a payment method (Cash, bank transfer, Momo...)
